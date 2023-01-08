@@ -32,3 +32,5 @@ An error occurred while processing the video:
 
 Copy code
 OpenCV(4.5.5) D:\a\opencv-python\opencv-python\opencv\modules\objdetect\src\cascadedetect.cpp:1689: error: (-215:Assertion failed) !empty() in function 'cv::CascadeClassifier::detectMultiScale'
+
+Link for the resource files: https://drive.google.com/drive/u/1/folders/1MuDvvDqpoEZAbk_CF5l8gMDwwc5Vi0-h
